@@ -1,0 +1,23 @@
+﻿body   { 
+         background-color: #FFE4C4;
+}
+
+h1 {
+   color: #FF4500;
+   font-size: 60px;
+   text-align: center;
+   font-family: "Lucida Console",monospace;
+}
+
+h2 {
+   color: #B22222;
+   font-size: 30px;
+   margin-left: 40px;
+   font-weight: bold;
+   font-family: "Lucida Console",monospace;}
+p { margin-left: 40px;
+   font-size: 20px;
+   font-family: "Courier New", monospace;
+   color: black;
+   }
+   
